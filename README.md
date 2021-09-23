@@ -9,7 +9,7 @@
 - 🤖 Me gustaria aprende sobre la **Inteligencia Artificial**.
 
 ##**HOBBIES**
--Me gusta cantar en mi ratos libres.
--🦾💪Me gusta ir al gym.
--Tambien me gusta practicar natacion.
+- Me gusta cantar en mi ratos libres.
+- 🦾💪Me gusta ir al gym.
+- Tambien me gusta practicar natacion.
 
