@@ -6,7 +6,9 @@
 - 
 - 🔰 Uno de mis objetivo es apoyar con el impulso tecnologico a mi pais.
 - 📚 Actualmente soy estudiante de **COMPUTER SCIENCE** en **UTEC**.
-- 🤖 Me interesa mucho sobre la Inteligencia Artificial.
-- -
--->
+- 🤖 Me gustaria aprende sobre la **Inteligencia Artificial**.
+-->##**HOBBIES**
+-Me gusta cantar en mi ratos libres.
+-🦾💪Me gusta ir al gym.
+-Tambien me gusta practicar natacion.
 
