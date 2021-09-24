@@ -13,10 +13,18 @@
 - 🦾💪 Me gusta ir al gym.
 - Tambien me gusta practicar natacion.
 ## HERRAMIENTAS
-- <img src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-- <img src = "http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-- <img src = "http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-### Puedes consultar mis blogs: altavoz: 
+### Otros idiomas que conozco
+<img src = "http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/-C % 20 &% 20C ++ - 659ad2? Style = flat & logo = c% 2B% 2B & logoColor = ffffff "> <img src =" https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white " > 
+
+---
+
+! [Estadísticas de GitHub] (https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+
+Consulte las estadísticas detalladas aquí: point_right: [Sourcerer] (https://sourcerer.io/souravdey777)
+
+---
+
+
 ### Puedes encontrarme en la web 🌍
 [<img align = "left" alt = "Souarvdey777" width = "22px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [sitio web ]
 [<img align = "left" alt = "Souarvdey777 | Medium" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />] [medio]
@@ -25,6 +33,10 @@
 [<img align = "left" alt = "Souarvdey777 | Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
 
 <br/>
+
+
+---
+### Puedes consultar mis blogs: altavoz: 
 
 [! [Tarjetas de blog de Sourav Dey] (https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)] (https://medium.com/@Souravdey777)
 
