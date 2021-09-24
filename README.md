@@ -10,7 +10,7 @@
 
 ## HOBBIES
 - Me gusta cantar en mi ratos libres.
-- 🦾💪Me gusta ir al gym.
+- 🦾💪 Me gusta ir al gym.
 - Tambien me gusta practicar natacion.
 ## HERRAMIENTAS
 - <img src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
