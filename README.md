@@ -13,37 +13,6 @@
 - 🦾💪 Me gusta ir al gym.
 - Tambien me gusta practicar natacion.
 ## HERRAMIENTAS
-### Otros idiomas que conozco
-
-
-### Puedes encontrarme en la web 🌍
-[<img align = "left" alt = "Souarvdey777" width = "22px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [sitio web ]
-[<img align = "left" alt = "Souarvdey777 | Medium" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />] [medio]
-[<img align = "left" alt = "Souarvdey777 | Twitter" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] [gorjeo]
-[<img align = "left" alt = "Souarvdey777 | LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
-[<img align = "left" alt = "Souarvdey777 | Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
-
-<br/>
-
-
----
-### Puedes consultar mis blogs: altavoz: 
-
-[! [Tarjetas de blog de Sourav Dey] (https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)] (https://medium.com/@Souravdey777)
-
-[Agrega tus blogs a tu perfil de github usando mis tarjetas de blog de Github] (https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
----
-
-Conectemos 👨‍💻 y forjemos el futuro juntos.😁✌
-
-** Consulta los repositorios y no olvides dar una estrella. ** 👇
-
-: estrella: De [Souravdey777] (https://github.com/Souravdey777)
-
-[sitio web]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[Instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medio]: https://medium.com/@Souravdey777/
+- <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+- <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+- <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
