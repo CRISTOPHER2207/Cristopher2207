@@ -17,6 +17,14 @@
 - <img src = "http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 - <img src = "http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 ### Puedes consultar mis blogs: altavoz: 
+### Puedes encontrarme en la web 🌍
+[<img align = "left" alt = "Souarvdey777" width = "22px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [sitio web ]
+[<img align = "left" alt = "Souarvdey777 | Medium" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />] [medio]
+[<img align = "left" alt = "Souarvdey777 | Twitter" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] [gorjeo]
+[<img align = "left" alt = "Souarvdey777 | LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
+[<img align = "left" alt = "Souarvdey777 | Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
+
+<br/>
 
 [! [Tarjetas de blog de Sourav Dey] (https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)] (https://medium.com/@Souravdey777)
 
